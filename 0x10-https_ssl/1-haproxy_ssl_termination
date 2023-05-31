@@ -19,5 +19,5 @@ frontend th3gr00t-tech-frontend
 
 backend th3gr00t-tech-backend
 	balance roundrobin
-	server 98497-web-01 3.235.21.36:80 check
-	server 98497-web-02 54.83.140.54 check
+	server 98497-web-01 100.26.228.18 check
+	server 98497-web-02 52.90.22.192 check
